@@ -136,9 +136,5 @@ welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools 
 
 </details>
 
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saboorsarem&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
 <!-- profile -->
