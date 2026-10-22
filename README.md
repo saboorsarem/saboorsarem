@@ -17,7 +17,7 @@
 </div>
 
 <p align="justify">
-welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools that do one thing well. Most of my work lives on Windows: C# and .NET desktop apps, with Python and JavaScript when the job asks for it. My latest project is <a href="https://github.com/saboorsarem/DNotes">DNotes</a> — cyberpunk sticky notes reduced to a single floating button.
+welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -107,9 +107,32 @@ welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools 
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/saboorsarem/DNotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=DNotes&theme=default" alt="DNotes" />
-</a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/saboorsarem/Rat-Windows">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=Rat-Windows&theme=default" alt="Rat-Windows" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/saboorsarem/modelfit">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=modelfit&theme=default" alt="modelfit" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/saboorsarem/laptop-bench">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=laptop-bench&theme=default" alt="laptop-bench" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/saboorsarem/DNotes">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=DNotes&theme=default" alt="DNotes" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
