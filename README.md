@@ -100,7 +100,7 @@ welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=saboorsarem&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaboorsarem&label=PROFILE%20VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views">
 
 </details>
 
