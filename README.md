@@ -136,5 +136,4 @@ welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools 
 
 </details>
 
-<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
 <!-- profile -->
