@@ -93,7 +93,7 @@ welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools 
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Saboor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saboorsarem&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saboor's github activity graph](https://github-act-graph.rodriaum.com/graph?username=saboorsarem&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
