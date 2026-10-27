@@ -139,11 +139,6 @@ Fully offline on a local Nemotron ASR model — no cloud, no API keys.</p>
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=laptop-bench&theme=default" alt="laptop-bench" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/saboorsarem/DNotes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=DNotes&theme=default" alt="DNotes" />
-        </a>
-      </td>
     </tr>
   </table>
 
