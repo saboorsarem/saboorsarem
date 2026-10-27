@@ -27,8 +27,8 @@ Fully offline on a local Nemotron ASR model — no cloud, no API keys.</p>
 
 <div align="center">
 
-<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/download/ava-v1.1.3/AVA-Setup.exe">
-<img src="https://img.shields.io/badge/Download-AVA_Setup_452_MB-00E676?style=for-the-badge&logo=windows&logoColor=white">
+<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/latest/download/AVA-Setup.exe">
+<img src="https://img.shields.io/badge/-DOWNLOAD-00E676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
 </a>
 
 </div>
