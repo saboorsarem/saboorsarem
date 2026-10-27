@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/saboorsarem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;C%23+%2F+.NET+developer" alt="Hi there! I'm Saboor Sarem" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;C%23+%2F+.NET+developer;AVA+%E2%80%94+Persian+speech+to+text" alt="Hi there! I'm Saboor Sarem" />
   </a>
 </div>
 
@@ -17,8 +17,33 @@
 </div>
 
 <p align="justify">
-welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
+welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline Persian speech-to-text for Windows with one floating button, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
 </p>
+
+<h3 align="center">🎙️ AVA — Your Voice. Your Words.</h3>
+
+<p align="center">Persian speech-to-text for Windows: one floating orb, your speech typed straight into the focused app.<br/>
+Fully offline on a local Nemotron ASR model — no cloud, no API keys.</p>
+
+<div align="center">
+
+<a href="https://saboorsarem.github.io/">
+<img src="https://img.shields.io/badge/Website-saboorsarem.github.io-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/download/ava-v1.1.3/AVA-Setup.exe">
+<img src="https://img.shields.io/badge/Download-AVA_Setup_452_MB-00E676?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/download/ava-v1.1.3/AVA-win64.zip">
+<img src="https://img.shields.io/badge/Portable-AVA_win64.zip-2CA5E0?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/tag/ava-v1.1.3">
+<img src="https://img.shields.io/badge/Release-v1.1.3-ff2e88?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ## My favorite tools and technologies ⚙️
 
