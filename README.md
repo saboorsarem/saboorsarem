@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/saboorsarem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;C%23+%2F+.NET+developer;AVA+%E2%80%94+Persian+speech+to+text" alt="Hi there! I'm Saboor Sarem" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;Software+Engineer;AVA+%E2%80%94+Persian+speech+to+text" alt="Hi there! I'm Saboor Sarem" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 <p align="justify">
-welcome to my GitHub Page. I am Saboor Sarem, a developer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline Persian speech-to-text for Windows with one floating button, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
+welcome to my GitHub Page. I am Saboor Sarem, a software engineer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline Persian speech-to-text for Windows with one floating button, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
 </p>
 
 <h3 align="center">🎙️ AVA — Your Voice. Your Words.</h3>
