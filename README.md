@@ -31,6 +31,10 @@ Detects the spoken language on every phrase and routes it to the matching local 
 
 <div align="center">
 
+<a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/latest">
+<img src="https://img.shields.io/github/v/release/saboorsarem/saboorsarem.github.io?label=AVA&style=for-the-badge&color=00E676&labelColor=181717&filter=ava-" alt="AVA latest version">
+</a>
+&nbsp;
 <a href="https://github.com/saboorsarem/saboorsarem.github.io/releases/latest/download/AVA-Setup.exe">
 <img src="https://img.shields.io/badge/-DOWNLOAD-00E676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
 </a>
