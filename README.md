@@ -1,129 +1,70 @@
-<div align="center">
-  <a href="https://github.com/saboorsarem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;Software+Engineer;AVA+%E2%80%94+speech+to+text+in+3+languages" alt="Hi there! I'm Saboor Sarem" />
+# Saboor Sarem
+
+Software engineer. I build native Windows apps in C# / .NET and Python tooling for local LLMs —
+small, sharp tools that do one thing well and run entirely on your machine.
+
+Currently shipping **[AVA](https://saboorsarem.github.io/)** — offline speech-to-text for Windows
+(Persian · English · Russian): one floating orb on the desktop, the recognised text typed straight
+into the focused app, four local engines, automatic language detection, zero cloud.
+
+**Download:** grab `AVA-Setup.exe` from the
+[latest release](https://github.com/saboorsarem/saboorsarem.github.io/releases/latest/download/AVA-Setup.exe) ·
+**Live site:** <https://saboorsarem.github.io>
+
+## Preview
+
+<p align="center">
+  <a href="https://saboorsarem.github.io/">
+    <img src="https://saboorsarem.github.io/logo.png" width="96" alt="AVA — mint equalizer mark">
   </a>
-</div>
-
-<div align="center">
-
-<a href="https://x.com/Saboor_Sarem">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/saboorsarem">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://saboorsarem.github.io">
-<img src="https://img.shields.io/badge/-Website-00E676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
-
-</div>
-
-<p align="justify">
-welcome to my GitHub Page. I am Saboor Sarem, a software engineer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline speech-to-text in Persian, English and Russian with one floating orb, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
 </p>
 
-<h3 align="center">🎙️ AVA — Your Voice. Your Words.</h3>
+The [site](https://saboorsarem.github.io/) is the product page: intro video, engine table,
+platforms and the download button, all live.
 
-<p align="center">Persian, English and Russian speech-to-text for Windows: one floating orb, your speech typed straight into the focused app.<br/>
-Detects the spoken language on every phrase and routes it to the matching local model — four engines, fully offline, no cloud and no API keys.</p>
+## AVA — Your Voice. Your Words. 🎙️
 
-<div align="center">
+A desktop dictation app. It records locally, recognises speech on your own computer and types the
+result into whatever window has focus. No audio ever leaves the machine.
 
-<a href="https://saboorsarem.github.io/">
-<img src="https://img.shields.io/badge/-DOWNLOAD-00E676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
-</a>
+| Engine | Language | Size | Speed |
+| --- | --- | --- | --- |
+| Koochik (fast) | Persian | ~0.45 GB | about 5× faster than real time |
+| Nemotron (accurate) | Persian | ~2.5 GB | slower than real time on a CPU |
+| Parakeet (English) | English | ~670 MB | about 1 s per phrase |
+| GigaAM (Russian) | Russian | ~225 MB | about 0.3 s per phrase |
 
-</div>
+**Auto** is the default card: it detects the spoken language on every phrase on-device and routes
+the audio to the matching offline model. Models download once on first use and are cached locally.
 
-## My favorite tools and technologies ⚙️
+- **100% offline** — transcription runs entirely on your machine
+- **Private by design** — voice and text never leave the PC; audio chunks live in RAM and are discarded
+- **Direct typing** — Unicode input events, works in any app and any keyboard layout
 
-> Tools and technologies that I have worked with and am interested in
+## What I'm building 🛠️
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+| Project | What it does |
+| --- | --- |
+| [Rat-Windows](https://github.com/saboorsarem/Rat-Windows) | Little Snitch-style outbound connection monitor and application firewall for Windows (WPF) |
+| [modelfit](https://github.com/saboorsarem/modelfit) | Will this model run on your machine? Sizes weights and KV cache, picks a GGUF quant, prints the llama-server command |
+| [laptop-bench](https://github.com/saboorsarem/laptop-bench) | Benchmark coding models on the hardware you own: pass@1, tok/s, TTFT and RAM on any OpenAI-compatible endpoint |
+| [DNotes](https://github.com/saboorsarem/DNotes) | Cyberpunk sticky notes for Windows, reduced to a single floating button |
+| [file-from-link](https://github.com/saboorsarem/file-from-link) | Telegram bot that turns links into files — yt-dlp, Redis queue, 4 UI languages (EN/FA/RU/AR), Docker + EC2 |
 
-## Github stats 📊
+## Stack 🧰
+
+`C#` · `.NET 8` · `WPF` · `WinForms` · `Python` · `llama.cpp` · `sherpa-onnx` · `Git` · `GitHub Actions`
+
+## GitHub stats 📊
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>Stats, activity graph and pins</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saboorsarem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=saboorsarem&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saboorsarem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=saboorsarem&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saboorsarem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboorsarem&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
-  <br/>
-</details>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
+  [![Saboor's github activity graph](https://github-act-graph.rodriaum.com/graph?username=saboorsarem&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Saboor's github activity graph](https://github-act-graph.rodriaum.com/graph?username=saboorsarem&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaboorsarem&label=PROFILE%20VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views">
-
-</details>
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
   <table>
     <tr>
       <td>
@@ -143,9 +84,21 @@ Detects the spoken language on every phrase and routes it to the matching local 
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=laptop-bench&theme=default" alt="laptop-bench" />
         </a>
       </td>
+      <td>
+        <a href="https://github.com/saboorsarem/DNotes">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=DNotes&theme=default" alt="DNotes" />
+        </a>
+      </td>
     </tr>
   </table>
-
 </details>
+
+## Contact 📫
+
+- **GitHub** — <https://github.com/saboorsarem>
+- **X / Twitter** — <https://x.com/Saboor_Sarem>
+- **Telegram** — <https://t.me/saboorsarem>
+- **Email** — <saboorsaremdanishyar@gmail.com>
+- **Website** — <https://saboorsarem.github.io>
 
 <!-- profile -->
