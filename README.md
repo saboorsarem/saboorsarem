@@ -15,7 +15,7 @@ into the focused app, four local engines, automatic language detection, zero clo
 
 <p align="center">
   <a href="https://saboorsarem.github.io/">
-    <img src="https://saboorsarem.github.io/logo.png" width="96" alt="AVA — mint equalizer mark">
+    <img src="https://saboorsarem.github.io/logo.png" width="96" alt="Saboor Sarem">
   </a>
 </p>
 
