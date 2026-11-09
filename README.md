@@ -1,9 +1,21 @@
-<a href="https://saboorsarem.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
-    <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
-  </picture>
-</a>
+<table>
+  <tr>
+    <td width="40%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/hero-photo.jpg"
+           alt="Saboor Sarem"
+           width="100%"
+           style="border-radius: 14px; border: 2px solid #00e676; box-shadow: 0 0 24px rgba(0, 230, 118, .35);">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://saboorsarem.github.io/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
+          <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
 <a href="https://saboorsarem.github.io/">
