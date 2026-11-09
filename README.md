@@ -4,21 +4,42 @@
   </a>
 </div>
 
-<div align="center">
-
-<a href="https://x.com/Saboor_Sarem">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/saboorsarem">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://saboorsarem.github.io">
-<img src="https://img.shields.io/badge/-Website-00E676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
-
-</div>
+<p align="left">
+  <a href="https://saboorsarem.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Website-00e676?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117">
+      <img alt="Website" src="https://img.shields.io/badge/-Website-00e676?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=cccccc">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Saboor_Sarem">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X/Twitter-00e676?style=for-the-badge&logo=Twitter&logoColor=ffffff&labelColor=0d1117">
+      <img alt="X / Twitter" src="https://img.shields.io/badge/-X/Twitter-00e676?style=for-the-badge&logo=Twitter&logoColor=000000&labelColor=cccccc">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/saboorsarem">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-00e676?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=0d1117">
+      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-00e676?style=for-the-badge&logo=GitHub&logoColor=000000&labelColor=cccccc">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://t.me/saboorsarem">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Telegram-00e676?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=0d1117">
+      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-00e676?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=cccccc">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:saboorsaremdanishyar@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Email-00e676?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117">
+      <img alt="Email" src="https://img.shields.io/badge/-Email-00e676?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=cccccc">
+    </picture>
+  </a>
+</p>
 
 <p align="justify">
 welcome to my GitHub Page. I am Saboor Sarem, a software engineer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline speech-to-text in 100+ languages with one floating orb, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
@@ -32,7 +53,7 @@ welcome to my GitHub Page. I am Saboor Sarem, a software engineer who likes smal
 <div align="center">
 
 <a href="https://saboorsarem.github.io/">
-<img src="https://img.shields.io/badge/-DOWNLOAD-00E676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
+<img src="https://img.shields.io/badge/-DOWNLOAD-00e676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
 </a>
 
 </div>
