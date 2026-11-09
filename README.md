@@ -1,7 +1,6 @@
 <table>
   <tr>
-    <td width="40%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/hero-photo.jpg"
+    <td width="40%" valign="top" align="center"
            alt="Saboor Sarem"
            width="100%"
            style="border-radius: 14px; border: 2px solid #00e676; box-shadow: 0 0 24px rgba(0, 230, 118, .35);">
