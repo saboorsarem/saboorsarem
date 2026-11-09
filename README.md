@@ -4,7 +4,7 @@
       <a href="https://saboorsarem.github.io/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saboorsarem/saboorsarem/blob/main/dark_mode.svg?short_path=b107c69">
-          <img alt="Saboor Sarem - Software Engineer" srcset="https://github.com/saboorsarem/saboorsarem/blob/main/light_mode.svg?short_path=aa16e29">
+          <img alt="Saboor Sarem - Software Engineer" src="https://github.com/saboorsarem/saboorsarem/blob/main/light_mode.svg?short_path=aa16e29">
         </picture>
       </a>
     </td>
