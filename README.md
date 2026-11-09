@@ -1,10 +1,15 @@
-<a href="https://saboorsarem.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
-    <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
-  </picture>
-</a>
-
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://saboorsarem.github.io/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/3f6ccb79cf58c859d62ac128808f105e057221f9/dark_mode.svg">
+          <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 <p align="left">
 <a href="https://saboorsarem.github.io/">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_light.svg"></picture>
@@ -22,9 +27,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture>
 </a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
   <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
 </picture>
-
