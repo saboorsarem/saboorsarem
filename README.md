@@ -11,7 +11,6 @@
   </tr>
 </table>
 <p align="left">
-<a href="https://saboorsarem.github.io/">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_light.svg"></picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
