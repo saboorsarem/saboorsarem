@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="339.333px" height="60px"
+     viewBox="0 0 339.333 60" font-family="ConsolasFallback,Consolas,Menlo,monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text {white-space: pre;}
+.px {shape-rendering: crispEdges;}
+</style>
+<g class="px">
+<path d="M3 0h324v3h3v54h-3v3h-324v-3h-3v-54h3z" fill="#d8d8da"/>
+<path d="M6 3h318v3h3v48h-3v3h-318v-3h-3v-48h3z" fill="#ffffff"/>
+<rect x="6" y="54" width="318" height="3" fill="#00e676"/>
+<!-- LinkedIn icon -->
+<g transform="translate(18,18)" fill="#00b84a">
+  <path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/>
+</g>
+<text x="128" y="34.80" font-size="18px" fill="#24292f">LINKEDIN</text>
+</g>
+</svg>
