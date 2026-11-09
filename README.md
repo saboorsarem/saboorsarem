@@ -1,58 +1,39 @@
 <table>
-  <tr>
-    <td width="100%" valign="top">
-      <a href="https://saboorsarem.github.io/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
-          <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table align="left">
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://saboorsarem.github.io/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
+          <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+<table>
   <tr>
     <td>
       <a href="https://x.com/Saboor_Sarem">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_dark.svg">
-          <img alt="X" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_light.svg">
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_dark.svg"><img alt="X" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_light.svg"></picture>
       </a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/saboor-sarem-167151446/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_dark.svg">
-          <img alt="LinkedIn" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_light.svg">
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_light.svg"></picture>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://t.me/saboorsarem">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_dark.svg">
-          <img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg">
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_dark.svg"><img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg"></picture>
       </a>
     </td>
     <td>
       <a href="mailto:saboorsaremdanishyar@gmail.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg">
-          <img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg">
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture>
       </a>
     </td>
   </tr>
 </table>
-
-<br clear="left">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
-  <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
+  <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
 </picture>
