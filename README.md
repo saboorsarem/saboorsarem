@@ -3,7 +3,7 @@
     <td width="100%" valign="top">
       <a href="https://saboorsarem.github.io/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/3f6ccb79cf58c859d62ac128808f105e057221f9/dark_mode.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saboorsarem/saboorsarem/blob/main/dark_mode.svg?short_path=b107c69">
           <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
         </picture>
       </a>
