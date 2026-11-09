@@ -1,11 +1,6 @@
 <table>
   <tr>
-    <td width="40%" valign="top" align="center"
-           alt="Saboor Sarem"
-           width="100%"
-           style="border-radius: 14px; border: 2px solid #00e676; box-shadow: 0 0 24px rgba(0, 230, 118, .35);">
-    </td>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <a href="https://saboorsarem.github.io/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
@@ -15,7 +10,6 @@
     </td>
   </tr>
 </table>
-
 <p align="left">
 <a href="https://saboorsarem.github.io/">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_light.svg"></picture></a>
@@ -29,7 +23,6 @@
 <a href="mailto:saboorsaremdanishyar@gmail.com">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture></a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
   <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
