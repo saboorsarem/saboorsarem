@@ -11,9 +11,6 @@
   </tr>
 </table>
 <p align="left">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_light.svg"></picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/saboorsarem">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_github_dark.svg"><img alt="GitHub" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_github_light.svg"></picture>
 </a>
