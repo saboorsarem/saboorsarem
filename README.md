@@ -27,7 +27,3 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture>
 </a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
-  <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
-</picture>
