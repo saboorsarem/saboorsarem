@@ -5,18 +5,44 @@
   </picture>
 </a>
 
-<div align="center">
-  <table width="100%" style="max-width:980px; background:#050d16; border:1px solid #1b2d3d; border-collapse:collapse; box-shadow: 0 0 0 1px rgba(81, 147, 255, 0.08);">
-    <tr>
-      <td align="center" style="padding:20px 18px 12px 18px;">
-        <div style="width:100%; max-width:560px; background:#071722; border:1px solid #1d3341; border-radius:8px; padding:14px; box-shadow: 0 0 20px rgba(0,0,0,0.45);">
-          <img src="https://github.com/saboorsarem.png" alt="Saboor Sarem" width="430" style="display:block; width:100%; max-width:430px; height:auto; border:1px solid #2d4257; border-radius:6px; background:#0a1723;" />
-        </div>
-        <h2 style="margin:16px 0 4px 0; color:#eff7ff; font-size:28px; font-weight:700; letter-spacing:0.4px; font-family:Arial,Helvetica,sans-serif;">Software Engineer</h2>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%" style="max-width:980px; border-spacing:0; border-collapse:collapse; background:#040b11; border:1px solid #1d2b2b; box-shadow:0 0 0 1px rgba(100,255,170,0.08);">
+  <tr>
+    <td style="padding:18px 18px 12px 18px;">
+      <table width="100%" style="border-spacing:0; border-collapse:collapse; background:#040b11;">
+        <tr>
+          <td width="52%" valign="middle" align="center" style="padding:8px 12px 8px 8px;">
+            <div style="display:inline-block; width:100%; max-width:480px; min-height:360px; background:#040b11; border:1px solid #1d2b2b; padding:16px; box-shadow:inset 0 0 0 1px rgba(255,255,255,0.02);">
+              <img src="https://github.com/saboorsarem.png" alt="Saboor Sarem" width="420" style="display:block; width:100%; max-width:420px; height:auto; margin:0 auto; filter:grayscale(100%) contrast(1.1) brightness(1.05); border:1px solid #2a3f3f; background:#09161d;" />
+            </div>
+          </td>
+          <td valign="middle" style="padding:8px 8px 8px 0; font-family:monospace; color:#8ef9b8; font-size:14px; letter-spacing:0.4px; line-height:1.7; white-space:nowrap;">
+            <div style="padding-left:8px;">
+              <div style="color:#8ef9b8; font-weight:700; margin-bottom:6px;">sabo</div>
+              <div>OS: <span style="color:#8ef9b8;">Linux</span></div>
+              <div>Up: <span style="color:#8ef9b8;">29 years, 7 months, 25 days</span></div>
+              <div>Host: <span style="color:#8ef9b8;">Kabul, Afghanistan</span></div>
+              <div>Kernel: <span style="color:#8ef9b8;">Product &amp; Software Engineer</span></div>
+              <div>ID: <span style="color:#8ef9b8;">VSCode, Cursor, Orca</span></div>
+              <div>Languages: <span style="color:#8ef9b8;">TypeScript, Go, Python, C++</span></div>
+              <div>Languages.Computer: <span style="color:#8ef9b8;">HTML, CSS, SQL, YAML, GraphQL</span></div>
+              <div>Languages.Real: <span style="color:#8ef9b8;">Pashto, Persian, English</span></div>
+              <div>Focus.AI: <span style="color:#8ef9b8;">Agents, MCP, LLM Automation</span></div>
+              <div>Focus.Web: <span style="color:#8ef9b8;">Next.js, React, Node.js</span></div>
+              <div>Hobbies: <span style="color:#8ef9b8;">AI, Robotics, Coding, Learning</span></div>
+              <div style="margin-top:10px; color:#8ef9b8; font-weight:700;">Contact</div>
+              <div>Email: <span style="color:#8ef9b8;">saboorsaremdanishyar@gmail.com</span></div>
+              <div>LinkedIn: <span style="color:#8ef9b8;">linkedin.com/in/saboorsarem</span></div>
+              <div>Portfolio: <span style="color:#8ef9b8;">saboorsarem.github.io</span></div>
+              <div style="margin-top:10px; color:#8ef9b8; font-weight:700;">GitHub Stats</div>
+              <div>Repos: <span style="color:#8ef9b8;">69</span>  |  Stars: <span style="color:#8ef9b8;">87</span>  |  Commits: <span style="color:#8ef9b8;">1,307</span></div>
+              <div>Followers: <span style="color:#8ef9b8;">16</span>  |  Following: <span style="color:#8ef9b8;">92</span></div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://saboorsarem.github.io/">
