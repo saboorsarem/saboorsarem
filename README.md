@@ -1,172 +1,25 @@
-<div align="center">
-  <a href="https://github.com/saboorsarem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E676&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saboor+Sarem;I+build+small%2C+sharp+Windows+tools;Software+Engineer;AVA+%E2%80%94+speech+to+text+in+100%2B+languages" alt="Hi there! I'm Saboor Sarem" />
-  </a>
-</div>
-
-<p align="left">
-  <a href="https://saboorsarem.github.io/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Website-00e676?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117">
-      <img alt="Website" src="https://img.shields.io/badge/-Website-00e676?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=cccccc">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://x.com/Saboor_Sarem">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X/Twitter-00e676?style=for-the-badge&logo=Twitter&logoColor=ffffff&labelColor=0d1117">
-      <img alt="X / Twitter" src="https://img.shields.io/badge/-X/Twitter-00e676?style=for-the-badge&logo=Twitter&logoColor=000000&labelColor=cccccc">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/saboorsarem">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-00e676?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=0d1117">
-      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-00e676?style=for-the-badge&logo=GitHub&logoColor=000000&labelColor=cccccc">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://t.me/saboorsarem">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Telegram-00e676?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=0d1117">
-      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-00e676?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=cccccc">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:saboorsaremdanishyar@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Email-00e676?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117">
-      <img alt="Email" src="https://img.shields.io/badge/-Email-00e676?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=cccccc">
-    </picture>
-  </a>
-</p>
-
-<p align="justify">
-welcome to my GitHub Page. I am Saboor Sarem, a software engineer who likes small tools that do one thing well. I build native Windows apps in C# / .NET and Python utilities for local LLMs: <a href="https://saboorsarem.github.io/">AVA</a> — offline speech-to-text in 100+ languages with one floating orb, <a href="https://github.com/saboorsarem/Rat-Windows">Rat-Windows</a> — a Little Snitch-style outbound connection monitor and application firewall, <a href="https://github.com/saboorsarem/modelfit">modelfit</a> — will this model run on your machine, and <a href="https://github.com/saboorsarem/laptop-bench">laptop-bench</a> — pass@1 and tok/s on the hardware you actually own.
-</p>
-
-<h3 align="center">🎙️ AVA — Your Voice. Your Words.</h3>
-
-<p align="center">Multilingual speech-to-text for Windows: one floating orb, your speech typed straight into the focused app.<br/>
-19 open-source models covering 100+ languages — download only the ones you speak. Detects the spoken language on every phrase and routes it to the matching local model, fully offline, no cloud and no API keys.</p>
-
-<div align="center">
-
 <a href="https://saboorsarem.github.io/">
-<img src="https://img.shields.io/badge/-DOWNLOAD-00e676?style=for-the-badge&logo=windows&logoColor=white" alt="Download AVA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
+    <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
+  </picture>
 </a>
 
-</div>
+<p align="left">
+<a href="https://saboorsarem.github.io/">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_website_light.svg"></picture></a>
+&nbsp;
+<a href="https://github.com/saboorsarem">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_github_dark.svg"><img alt="GitHub" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_github_light.svg"></picture></a>
+&nbsp;
+<a href="https://t.me/saboorsarem">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_dark.svg"><img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg"></picture></a>
+&nbsp;
+<a href="mailto:saboorsaremdanishyar@gmail.com">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture></a>
+</p>
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saboorsarem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=saboorsarem&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saboorsarem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboorsarem&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Saboor's github activity graph](https://github-act-graph.rodriaum.com/graph?username=saboorsarem&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaboorsarem&label=PROFILE%20VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views">
-
-</details>
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/saboorsarem/Rat-Windows">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=Rat-Windows&theme=default" alt="Rat-Windows" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/saboorsarem/modelfit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=modelfit&theme=default" alt="modelfit" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/saboorsarem/laptop-bench">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saboorsarem&repo=laptop-bench&theme=default" alt="laptop-bench" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</details>
-
-<!-- profile -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
+  <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
+</picture>
