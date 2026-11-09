@@ -10,25 +10,48 @@
     </td>
   </tr>
 </table>
-<p align="left">
-<a href="https://x.com/Saboor_Sarem">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_dark.svg"><img alt="X" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_light.svg"></picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saboor-sarem-167151446/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_dark.svg">
-  <img alt="LinkedIn" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_light.svg">
-</picture>
-</a>
-<a href="https://t.me/saboorsarem">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_dark.svg"><img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg"></picture>
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:saboorsaremdanishyar@gmail.com">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg"></picture>
-</a>
-</p>
+
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://x.com/Saboor_Sarem">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_dark.svg">
+          <img alt="X" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_light.svg">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/saboor-sarem-167151446/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_dark.svg">
+          <img alt="LinkedIn" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_light.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://t.me/saboorsarem">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_dark.svg">
+          <img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:saboorsaremdanishyar@gmail.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg">
+          <img alt="Email" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_light.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="left">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_dark.svg">
   <img alt="Saboor's contribution graph" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/pacman_light.svg">
