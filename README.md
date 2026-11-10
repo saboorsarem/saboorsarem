@@ -1,17 +1,11 @@
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <a href="https://saboorsarem.github.io/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
-          <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://saboorsarem.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/dark_mode.svg">
+    <img alt="Saboor Sarem - Software Engineer" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/light_mode.svg" width="100%">
+  </picture>
+</a>
 
-<br>
+<br><br>
 
 <p align="left">
   <a href="https://x.com/Saboor_Sarem">
@@ -20,7 +14,7 @@
       <img alt="X" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_x_light.svg">
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saboor-sarem-167151446/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_linkedin_dark.svg">
@@ -36,7 +30,7 @@
       <img alt="Telegram" src="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_telegram_light.svg">
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saboorsaremdanishyar@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboorsarem/saboorsarem/main/link_email_dark.svg">
