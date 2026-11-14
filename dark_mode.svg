@@ -102,7 +102,7 @@ text, tspan {white-space: pre;}
 <tspan x="447" y="431">- GitHub Stats ———————————————————————————————————————————</tspan>
 <tspan x="447" y="451"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="repo_data_dots">...............................................</tspan><tspan class="cc"> </tspan><tspan class="value">8</tspan></tspan>
 <tspan x="447" y="471"><tspan class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="commit_data_dots">...............................................</tspan><tspan class="cc"> </tspan><tspan class="value">4</tspan></tspan>
-<tspan x="447" y="491"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="loc_data_dots">...........................................</tspan><tspan class="cc"> </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="447" y="491"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="loc_data_dots">...........................................</tspan><tspan class="cc"> </tspan><tspan class="value">2</tspan></tspan>
 <tspan x="447" y="531"><tspan class="key">&gt; </tspan><tspan class="value">█<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/></tspan></tspan>
 </text>
 </svg>
